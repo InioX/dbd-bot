@@ -67,7 +67,7 @@
      Installation
 </h2>
 
-Download the latest executable file from the [release](https://github.com/InioX/dbd-bot/releases/latest/download/bot.exe) and run it as administrator.
+Download the latest executable file from the [release](https://github.com/InioX/dbd-bot/releases/latest/download/dbd-bot.exe) and run it as administrator.
 
 
 <h2 class="usage">
