@@ -11,7 +11,7 @@
     ·
     <a href="#-------------------------installation">Installation</a>
     ·
-    <a href="https://github.com/InioX/matugen/wiki">Wiki</a>
+    <a href="#-------------------------usage">Usage</a>
 </div>
 
  <div align="center">
